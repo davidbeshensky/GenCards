@@ -1,2 +1,13 @@
+# Virtual environment
 .venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local config/project files
+.ropeproject/
 .env
+
+# Output data
+output/
